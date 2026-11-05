@@ -208,7 +208,7 @@ Attach screenshots of the actual responses in the `screenshots/` folder before s
 
 ## Deployment
 
-**Live URL:** Pending deployment.
+**Live URL:** https://lab-2-xey5.onrender.com 
 
 `http://localhost:3000`.
 
